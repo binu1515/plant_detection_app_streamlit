@@ -1,0 +1,6 @@
+0, karpoor_thulsi
+1, kattu_thulsi
+2, krishna_thulsi
+3, vicks_thulsi
+
+
